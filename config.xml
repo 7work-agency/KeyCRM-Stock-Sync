@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>keycrmstock</name>
+    <displayName><![CDATA[KeyCRM Stock Sync]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Stock synchronization with KeyCRM]]></description>
+    <author><![CDATA[7work.agency]]></author>
+    <tab><![CDATA[export]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+    <limited_countries></limited_countries>
+</module>
