@@ -1,0 +1,31 @@
+# PrestaShop specific
+config_*.xml
+!config.xml
+!config_uk.xml
+
+# PHP
+vendor/
+composer.lock
+
+# IDE specific
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Cache
+cache/
+tmp/
+
+# Environment files
+.env
+.env.*
+!.env.example

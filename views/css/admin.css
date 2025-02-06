@@ -1,0 +1,15 @@
+.keycrm-settings .panel {
+    margin-bottom: 20px;
+}
+
+.keycrm-settings .alert {
+    margin-top: 20px;
+}
+
+.keycrm-settings pre {
+    background: #f7f7f7;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 10px 0;
+}
